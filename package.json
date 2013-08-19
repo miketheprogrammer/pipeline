@@ -9,7 +9,7 @@
   "through": "~2.3.4"
   },
   "scripts" : {
-    "test" : "tap ./test/*.js"
+    "test" : "tap ./tests/*.js"
     
   },
   "devDependencies" : {
