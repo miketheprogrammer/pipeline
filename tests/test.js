@@ -1,4 +1,4 @@
-var Pipeline = require("./pipeline");
+var Pipeline = require("../pipeline");
 var Stream = require("stream");
 var through = require('through');
 var JSONStream = require('JSONStream');
