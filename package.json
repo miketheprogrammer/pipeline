@@ -1,0 +1,31 @@
+{
+  "name": "pipeline",
+  "description": "Efficient way of connecting disparate streams",
+  "version": "0.0.2",
+  "engines": {
+    "node": ">=10.0"
+  },
+  "dependencies": {
+  "through": "~2.3.4"
+  },
+  "scripts" : {
+    "test" : "tap ./test/*.js"
+    
+  },
+  "devDependencies" : {
+    "tap" : "~0.4.0",
+    "JSONStream": "~0.6.4"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/miketheprogrammer/pipeline.git"
+  },
+  "author": "Michael Hernandez <michael.hernandez1988@gmail.com>",
+  "keywords": ["machine", "learning", "ml", "classifier", "clustering", "bayes", "k-means", "logistic", "regression", "perceptron", "neural","net"],
+  "main": "./pipeline.js",
+  "maintainers": [{
+    "name": "Michael Hernandez",
+    "email": "michael.hernandez1988@gmail.com",
+    "web": "http://miketheprogrammer.com"
+  }]
+}
