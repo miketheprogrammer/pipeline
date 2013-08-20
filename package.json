@@ -1,5 +1,5 @@
 {
-  "name": "pipeline",
+  "name": "stream-pipeline",
   "description": "Efficient way of connecting disparate streams",
   "version": "0.0.3",
   "engines": {
@@ -21,7 +21,7 @@
   , "url" : "http://github.com/miketheprogrammer/pipeline.git"
   },
   "author": "Michael Hernandez <michael.hernandez1988@gmail.com>",
-  "keywords": ["machine", "learning", "ml", "classifier", "clustering", "bayes", "k-means", "logistic", "regression", "perceptron", "neural","net"],
+  "keywords": ["streams", "pipes", "async","flow","io","pipeline",control"],
   "main": "./pipeline.js",
   "maintainers": [{
     "name": "Michael Hernandez",
