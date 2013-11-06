@@ -9,8 +9,7 @@
   "through": "~2.3.4"
   },
   "scripts" : {
-    "test" : "tap ./tests/*.js"
-    
+    "test" : "tap ./tests/*.js"    
   },
   "devDependencies" : {
     "tap" : "~0.4.0",
@@ -21,7 +20,7 @@
   , "url" : "http://github.com/miketheprogrammer/pipeline.git"
   },
   "author": "Michael Hernandez <michael.hernandez1988@gmail.com>",
-  "keywords": ["streams", "pipes", "async","flow","io","pipeline",control"],
+  "keywords": ["streams", "pipes", "async","flow","io","pipeline","control"],
   "main": "./pipeline.js",
   "maintainers": [{
     "name": "Michael Hernandez",
