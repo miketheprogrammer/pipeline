@@ -58,3 +58,7 @@ Pipelines are executed in the array order they are provided.
 
 Please look at the Test file for examples.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miketheprogrammer/pipeline/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
